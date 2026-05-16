@@ -29,6 +29,15 @@ const stack = {
 
 ## 🚀 Featured Projects
 
+### 🏏 [OpenCric — Open-Data Cricket Analytics Dashboard](https://cricket-dashboard-beta.vercel.app)
+A fully deployed, open-source cricket analytics platform powered by Cricsheet data with optional live provider support. Built with real data pipelines, interactive visualisations, and production-grade frontend architecture.
+
+🔴 **[Live Demo](https://cricket-dashboard-beta.vercel.app)**
+
+`React` `TypeScript` `Data Visualisation` `Analytics` `Open Source`
+
+---
+
 ### 🔴 [Redux Render Debugger — VS Code Extension](https://github.com/pradeep-dharmavarapu/redux-debugger-vscode)
 Detects unnecessary React component re-renders caused by Redux state updates — live, inside VS Code. Built from a real production problem at T-Mobile where UI was timing out at 10+ seconds.
 
@@ -56,7 +65,8 @@ Production-grade MFE architecture with Module Federation, shared Redux store, in
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pradeep--kumar--dharmavarapu-0077B5?logo=linkedin)](https://linkedin.com/in/pradeep-kumar-dharmavarapu)
-[![Email](https://img.shields.io/badge/Email-pradeeplucky236@gmail.com-D14836?logo=gmail)](mailto:pradeeplucky236@gmail.com)
+[![Email](https://img.shields..io/badge/Email-pradeeplucky236@gmail.com-D14836?logo=gmail)](mailto:pradeeplucky236@gmail.com)
+[![Live Project](https://img.shields.io/badge/OpenCric-Live%20Demo-22c55e?logo=vercel)](https://cricket-dashboard-beta.vercel.app)
 
 ---
 
